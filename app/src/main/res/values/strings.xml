@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">nataliailealmanca</string>
+    <string-array name="germanWords">
+        <item>anfangen</item>
+        <item>ankommen</item>
+        <item>anrufen</item>
+        <item>aufstehen</item>
+        <item>bekommen</item>
+        <item>beginnen</item>
+        <item>bleiben</item>
+        <item>bringen</item>
+        <item>denken</item>
+        <item>dürfen</item>
+        <item>essen</item>
+        <item>fahren</item>
+        <item>fangen</item>
+        <item>fernsehen</item>
+        <item>finden</item>
+        <item>fliegen</item>
+        <item>geben</item>
+        <item>gehen</item>
+        <item>haben</item>
+        <item>heißen</item>
+        <item>helfen</item>
+        <item>kennen</item>
+        <item>kommen</item>
+        <item>können</item>
+        <item>lesen</item>
+        <item>mögen</item>
+        <item>müssen</item><item>nehmen</item><item>rufen</item><item>schlafen</item><item>schreiben</item><item>schwimmen</item><item>sehen</item><item>sein</item><item>singen</item><item>sollen</item><item>sprechen</item><item>stehen</item><item>treffen</item><item>trinken</item><item>tun</item><item>verstehen</item><item>wehtun</item><item>wissen</item><item>wollen</item>
+
+
+    </string-array>
+
+    <string-array name="turkishWords">
+        <item>Başlamak</item>
+        <item>Varmak</item>
+        <item>Telefon açmak</item>
+        <item>Ayağa kalkmak</item>
+        <item>Verilmesi-almak</item>
+        <item>Başlamak</item>
+        <item>Kalmak</item>
+        <item>Getirmek</item>
+        <item>Düşünmek</item>
+        <item>Yapma izni var</item>
+        <item>Yemek yemek</item>
+        <item>Sürmek</item>
+        <item>Yakalamak</item>
+        <item>TV izlemek</item>
+        <item>Bulmak</item>
+        <item>Uçmak</item>
+        <item>Vermek</item>
+        <item>Gitmek</item>
+        <item>Sahip olmak</item>
+        <item>ismi , adı</item>
+        <item>yardım etmek</item>
+        <item>tanımak</item>
+        <item>gelmek</item>
+        <item>yapabilmek/edebilmek</item>
+        <item>okumak</item>
+        <item>hoşlanmak/sevmek</item><item>zorunda</item>
+        <item>almak</item><item>çağırmak</item><item>uyumak</item><item>yazmak</item><item>yüzmek</item><item>görmek</item><item>olmak</item><item>şarkı söylemek</item><item>yapmalı</item><item>konuşmak</item><item>ayakta durmak</item><item>buluşmak</item><item>içmek</item><item>yapmak-etmek</item><item>anlamak</item><item>canının acıması</item><item>bilmek</item><item>istemek</item>
+    </string-array>
+    <string-array name="sentences">
+        <item>1-Ich fange gleich an.
+Hemen başlıyorum.
+             \n2
+-Ich fange an zu arbeiten.
+Ben çalışmaya başlıyorum.
+
+\n3-Ich fange an zu lernen.
+Ben öğrenmeye/ders çalışmaya başlıyorum.
+
+\n 4-Bitte fangen Sie an.
+Lütfen başlayınız.
+
+\n5-Kannst du bitte anfangen?
+Başlayabilirmisin lütfen ?</item><item>1-Wann kommt der Bus /Zug an?
+Otobüs/ tren ne zaman varır?
+
+\n2-Wann kommst du an ?
+Sen ne zaman varırsın?
+
+  \n3-Ich komme um 5 UHR an
+Ben saat 5’te varırım
+    </item><item>
+        \n1-Ich rufe meine Mutter an.
+Ben annemi telefonla arıyorum
+
+\n2-Deine Mutter ruft an.
+Annen arıyor seni (telefonla)</item><item>\n1-Ich stehe Morgens um  7 Uhr auf.
+Ben sabahları saat 7 de kalkarım.
+
+\n2-Kannst du bitte aufstehen?
+Lütfen kalkabilirmisin (ayağa) .
+
+\n3-Bitte stehen Sie auf.
+Lütfen ayağa kalkınız.</item><item>-\n1-Ich bekomme Geld vom Staat.
+Ben devletten para alıyorum.
+\n2-Ich bekomme kein Arbeitlosengeld.
+Ben işsizlik parası almıyorum.
+\n3-Ich bekomme ein Geschenk von Kaan.
+Ben Kaan’dan
+ bir hediye alıyorum.</item><item>\n1-Der Film beginnt.
+Film başlıyor.</item><item>\n-1Ich bleibe hier.
+Ben burda kalıyorum.
+\n2-Ich bleibe mit /bei Ali
+Ben Ali ile /ali de kalıyorum.
+\n3-Bitte bleib hier.
+Lütfen burada kal.
+\n4-Kannst du bitte hier bleiben?
+Lütfen burada kalır mısın?</item><item>\n1-Können Sie mir bitte ein glas Wasser bringen .
+Lütfen bana bir bardak su getirebilir misiniz?
+\n2-Ich kann es dir bringen.
+Ben onu sana getirebilirim .
+\n3-Kannst du mir die Tasche bringen, bitte ?
+Mümkünse bana çantayı getirebilir misin , lütfen ?</item><item>\n1-Ich denke an dich.
+Seni düşünüyorum
+\n2-Ich denke an meine Kindheit.
+Çocukluğumu düşünüyorum.
+\n3-Woran denkst du?
+Neyi düşünüyorsun?</item><item>\n1-Darf ich hier sitzen?
+buraya oturabilir miyim?
+\n2-Darf man hier Rauchen?
+Burada sigara içilebiliyor mu?
+Nein das darfst du nicht !</item><item>\n1-Ich will Nudeln Essen
+Ben makarna yemek istiyorum
+\n2- Was willst du essen?
+Sen ne yemek istiyorsun
+\n3-Ich esse immer Suppe zum Frühstück.
+Ben kahvaltıda  hep çorba yerim.</item><item>\n1-Bitte langsam fahren.
+Lütfen yavaş sürün.
+\n2-Ich fahre nach Stuttgart.
+Ben Stuttgarta yolculuk ediyorum.</item><item>\n1-Ich fange dich
+Seni yakalıyorum
+\n2-fang es!
+yakala!</item><item>\n1-Ich sehe Abends gern fern.
+Ben akşamları TV izlemeyi severim.</item><item>\n1-Ich finde meine Schlüsseln nicht.
+Anahtarlarımı bulamıyorum.
+\n2-Kannst du bitte meine Schlüsseln finden.
+Lütfen anahtarlarımı  bulurmusun ?</item><item>\n1-Ich fliege nach Deutschland.
+Ben Almanya ya uçuyorum.
+\n2-Das Flugzeug fliegt um 9 Uhr.
+uçak saat 9 da uçuyor.
+\n3-Wohin fliegst du in Urlaub?
+Tatilde nereye uçuyorsun?</item><item>\n1-Kannst du mir bitte eine tasse Tee geben?
+Bana bir fincan kahve verebilirmisin lütfen?
+\n2-Hier ,ich gebe dir mein Stift.
+Al burada, sana kalemimi veriyorum.</item><item>\n1-Wohin gehst du?
+Nereye gidiyorsun?
+\n2-Wann gehst du?
+Ne zaman gidiyorsun?
+\n3-Warum gehst du?
+Neden gidiyorsun?</item><item>\n1-Ich habe eine Katze.
+Benim bir kedim var.
+\n2-Ich habe ein Haus mit Garten
+benim bahçeli bir evim var.</item><item>\n1-Wie heisst du?
+Adın ne.
+\n2-Ich heiße Natalia.
+Benim ismim Natalia.</item><item>\n1-Können Sie mir bitte helfen?
+Bana yardım edebilir misiniz lütfen?
+\n2-Ich kann Helfen !
+Yardım edebilirim.
+\n3-Hilfe !!!
+Yardım !!! imdat !!!</item><item>\n-1Kennst du mich?
+Beni tanıyormusun?
+\n2-Ich kenne dich nicht.
+Seni tanımıyorum.
+\n3-Ich kenne Kaan
+Ben Kaanı tanıyorum</item><item>\n1-Woher kommst du?
+Nereden geliyorsun?
+\n2-Wann kommst du nach Hause?
+Eve ne zaman geliyorsun?</item><item>\n1-Kannst du Deutsch ?
+Almanca biliyormusun?
+\n2-Ich kann wenig Deutsch sprechen .
+Ben az Almanca konuşabiliyorum.</item><item>\n1-Ich mag Buch lesen.
+Ben kitap okumayı seviyorum.</item><item>\n1-Ich mag spazieren gehen
+Gezmeye gitmeyi severim.
+\n2-Ich mag Kaffee trinken.
+Kahve içmesini severim.
+\n3-Was magst du?
+Sen ne seversin ?</item><item>\n1-Ich muss viel arbeiten
+çok çalışmak zorundayım.
+\n2-Ich muss Deutsch lernen.
+Almanca öğrenmek zorundayım.
+\n3-Musst du gehen?
+gitmek zorundamısın?</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+        <item>stop</item>
+
+    </string-array>
+</resources>
