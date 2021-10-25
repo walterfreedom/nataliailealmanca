@@ -98,6 +98,24 @@
                 app:rippleColor="@color/bluebackground"
                 app:strokeColor="#48D1B6" />
 
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="221dp"
+                android:layout_height="58dp"
+                android:layout_marginBottom="60dp"
+                android:background="@color/white"
+                android:foregroundTint="#D1A2A2"
+                android:onClick="listenagainclick"
+                android:shadowColor="#3D9F9F"
+                android:text="Tekrar Dinle"
+                android:textColor="@color/bluebackground"
+                app:layout_constraintBottom_toTopOf="@+id/guideline3"
+                app:layout_constraintEnd_toStartOf="@+id/guideline12"
+                app:layout_constraintHorizontal_bias="0.505"
+                app:layout_constraintStart_toStartOf="@+id/guideline9"
+                app:rippleColor="@color/bluebackground"
+                app:strokeColor="#48D1B6" />
+
             <androidx.constraintlayout.widget.Guideline
                 android:id="@+id/guideline9"
                 android:layout_width="wrap_content"

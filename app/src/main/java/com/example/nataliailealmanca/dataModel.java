@@ -4,11 +4,13 @@ public class dataModel {
     String german="";
     String turkish ="";
     String sentences="";
+    int index;
 
-    public dataModel(String german, String turkish,String sentences ){
+    public dataModel(String german, String turkish,String sentences,int index ){
         this.german = german;
         this.turkish = turkish;
         this.sentences = sentences;
+        this.index=index;
     }
 
     public String getSentences() {
@@ -33,5 +35,13 @@ public class dataModel {
 
     public void setTurkish(String turkish) {
         this.turkish = turkish;
+    }
+
+    public int getIndex() {
+        return index;
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
     }
 }

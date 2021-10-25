@@ -27,26 +27,28 @@ public class MainActivity2 extends AppCompatActivity implements selectListener{
     RecyclerView recyclerView;
     List<dataModel> dataList;
     customAdapter customAdapter;
+    int index;
     getElement getElement;
     ConstraintLayout popup,recyclelayout;
     TextView popGermanText,popTurkishtext,popSentence;
-    Button btnreturn;
+    Button btnreturn,listenagain;
     ImageView germanFlag, turkishFlag;
     MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
-
+    String speech;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
+        germanFlag=findViewById(R.id.imageView);
+        turkishFlag=findViewById(R.id.imageView2);
         super.onCreate(savedInstanceState);
-
+        dataModel dataModel;
         textToSpeech = new TextToSpeech(getApplicationContext(), new TextToSpeech.OnInitListener() {
             @Override
             public void onInit(int status) {
-                germanFlag.findViewById(R.id.imageView);
-                turkishFlag.findViewById(R.id.imageView2);
+
                 textToSpeech.setLanguage(Locale.GERMAN);
                 if(status!=TextToSpeech.ERROR){
 
@@ -59,6 +61,13 @@ public class MainActivity2 extends AppCompatActivity implements selectListener{
         setContentView(R.layout.activity_main2);
 
         displayItems();
+        listenagain= findViewById(R.id.button3);
+        listenagain.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                textToSpeech.speak(popGermanText.getText().toString(),TextToSpeech.QUEUE_FLUSH,null);
+            }
+        });
 
     }
 
@@ -73,7 +82,7 @@ public class MainActivity2 extends AppCompatActivity implements selectListener{
         String[] sentences = res.getStringArray(R.array.sentences);
         for(int i = 0; i<germanWords.length;i++){
             getElement getElement = new getElement();
-            dataList.add(new dataModel(getElement.getElement(germanWords,i),getElement.getElement(turkishwords,i),getElement.getElement(sentences,i)));
+            dataList.add(new dataModel(getElement.getElement(germanWords,i),getElement.getElement(turkishwords,i),getElement.getElement(sentences,i),i));
         }
 
 
@@ -95,14 +104,19 @@ public class MainActivity2 extends AppCompatActivity implements selectListener{
         }
     };
 
-    @Override
-    public void onItemClicked(dataModel dataModel) {
+    public void playTTS(dataModel dataModel){
+     String a = dataModel.getGerman();
 
+    }
+    public void onItemClicked(dataModel dataModel) {
+        germanFlag=findViewById(R.id.imageView);
+        turkishFlag=findViewById(R.id.imageView2);
         recyclelayout=findViewById(R.id.RecyclerLayout);
         popGermanText = findViewById(R.id.popGermanText);
         popTurkishtext= findViewById(R.id.popTurkishText);
         popSentence=findViewById(R.id.popSentence);
         ConstraintLayout popup = findViewById(R.id.popup);
+
 
         germanFlag.setVisibility(View.GONE);
         turkishFlag.setVisibility(View.GONE);

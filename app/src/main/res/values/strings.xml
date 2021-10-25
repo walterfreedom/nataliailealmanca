@@ -102,7 +102,7 @@ Ben işsizlik parası almıyorum.
 \n3-Ich bekomme ein Geschenk von Kaan.
 Ben Kaan’dan
  bir hediye alıyorum.</item><item>\n1-Der Film beginnt.
-Film başlıyor.</item><item>\n-1Ich bleibe hier.
+Film başlıyor.</item><item>\n1-Ich bleibe hier.
 Ben burda kalıyorum.
 \n2-Ich bleibe mit /bei Ali
 Ben Ali ile /ali de kalıyorum.
@@ -185,31 +185,34 @@ Sen ne seversin ?</item><item>\n1-Ich muss viel arbeiten
 Almanca öğrenmek zorundayım.
 \n3-Musst du gehen?
 gitmek zorundamısın?</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>!!Eksik cümleler yakında eklenecek!!</item>
 
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
-        <item>stop</item>
 
     </string-array>
 </resources>
