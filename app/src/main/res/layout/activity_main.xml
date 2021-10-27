@@ -14,11 +14,11 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="150dp"
         android:layout_marginEnd="10dp"
-        android:text="A1 Kelimeler"
+        android:onClick="changeActivity"
+        android:text="A1 Fiiller"
         android:textColor="@color/design_default_color_background"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        android:onClick="changeActivity"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

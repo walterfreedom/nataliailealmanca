@@ -185,33 +185,95 @@ Sen ne seversin ?</item><item>\n1-Ich muss viel arbeiten
 Almanca öğrenmek zorundayım.
 \n3-Musst du gehen?
 gitmek zorundamısın?</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
-        <item>!!Eksik cümleler yakında eklenecek!!</item>
+        <item>\n1-Kannst du das Paket nehmen,bitte?
+Paketi alabilirmisin lütfen ?
+\n2-Ich nehme das Paket.
+Paketi alıyorum.
+</item>
+        <item>\n1-Rufe bitte deine Mutter.
+Anneni çağır  lütfen.
+</item>
+        <item>\n1-Ich schlafe Sonntags lang.
+Pazar günleri uzun uyorum.
+\n2-Ich kann nicht schlafen !
+Uyuyamıyorum.
+</item>
+        <item>\n1-Ich schreibe dir einen E Mail.
+Ben sana bir email yazıyorum.
+\n2-Kannst du mir bitte einen email schreiben?
+Bana bir mail yazarmısın lütfen ?
+</item>
+        <item>\n1-Ich kann nicht schwimmen.
+Ben yüzemiyorum.
+\n2-Kannst du schwimmen ?
+Sen yüzebiliyormusun?
+</item>
+        <item>\n1-Kanns du miche sehen?
+Beni görebiliyormusun?
+\n2-Ich kann dich nicht sehen
+Seni göremiyorum.
+</item>
+        <item>\n1-Ich bin eine Lehrerin.
+Ben bir öğretmenim.
+\n2-Was bist du?
+Sen nesin?
+\n3-Ich bin ein Arzt.
+Ben doktorum.
+</item>
+        <item>\n1-Die Vögel singen.
+Kuşlar şarkı söylüyor
+\n2-Kannst du gut singen ?
+Sen güzel şarkı söyleyebiliyormusun?
+</item>
+        <item>\n1-Ich soll Sport machen sagt der Arzt.
+Spor yapmalıyım diyor doktor
+\n2-Sollen wir essen gehen?
+Yemeğe gidelim mi?
+</item>
+        <item>\n1-Kannst du Englisch sprechen?
+İngilizce konuşabiliyor musun?
+\n2-Ich kann nicht Deutsch sprechen.
+Ben almanca konuşamıyorum.
+</item>
+        <item>\n1-Stehen Sie bitte hier.
+Lütfen burada durun.
+</item>
+        <item>\n1-Ich treffe heute Kaan.
+Ben bugün Kaanla buluşuyorum.
+\n2-Können wir  uns morgen treffen?
+Yarın buluşalım mı?
+</item>
+        <item>\n1-Ich trinke jeden Tag 2 Liter Wasser.
+Ben her gün 2 litre su içiyorum.
+\n2-Magst du Tee trinken?
+Çay içmeyi sever misin ?
+</item>
+        <item>\n1-Was tust du?
+Ne yapıyorsun?
+</item>
+        <item>\n1-Ich verstehe nicht
+anlamıyorum.
+\n2-Verstehst du?
+anlıyor musun?
+\n3-Ja ich verstehe
+Evet anlıyorum
+</item>
+        <item>\n1-Tut es weh?
+Canın acıyor mu?
+\n2-Ja es tut weh.
+Evet acıyor
+\n3-Nein es tut nicht weh
+Yok acımıyor.
+</item>
+        <item>\n1-Ich weiss nicht.
+Bilmiyorum.
+</item>
+        <item>\n1-Ich will in Deutschland arbeiten.
+Almanyada çalışmak istiyorum.
+\n2-willst du Tee trinken?
+            Çay içmek istiyor musun ?
+</item>
+
 
 
     </string-array>
